@@ -269,7 +269,7 @@ ifneq ($(VENDOR_URL_VM_BUG),)
 endif
 
 # Different naming strings generated from the above information.
-RUNTIME_NAME=$(PRODUCT_NAME) $(PRODUCT_SUFFIX)
+RUNTIME_NAME=Ekaterina Ledeneva $(PRODUCT_SUFFIX)
 
 # How to compile the code: release, fastdebug or slowdebug
 DEBUG_LEVEL:=@DEBUG_LEVEL@
